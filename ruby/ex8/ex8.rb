@@ -9,5 +9,5 @@ puts formatter % {
   first: "I had this thing.",
   second: "That you could type up right.",
   third: "But it didn't sing.",
-  fourth: "So i said goodnight."
+  fourth: "So i said goodnight."  
 }
